@@ -12,4 +12,8 @@ fun main(){
     var X= 7
     println("${X++}")
     println("${++X}")
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 64693a3 (initial commit)
