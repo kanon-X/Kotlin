@@ -12,5 +12,4 @@ fun main(){
     var X= 7
     println("${X++}")
     println("${++X}")
-    val isActive = 
 }
